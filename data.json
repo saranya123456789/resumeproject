@@ -1,0 +1,52 @@
+{
+	"basics":{
+		"name":"saranya",
+		"email":"k.saranyareddy381998@gmail.com",
+		"mobile":"9998880001",
+		"Address":"Anantapur, Andhra Pradesh"
+	},
+	"career":{
+        "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+    },
+    "education":[
+    { 
+     "degree":"b-tech",
+     "institute":"SVIT,Anantapur",
+     "data":["2015-2019","80%"]
+    },
+
+    {
+    	"degree":"intermediate",
+     "institute":"NRI Junior college,Hyderabad",
+     "data":["2013-2015","92%"]
+    },
+
+    {
+    	"degree":"S.S.C",
+     "institute":"radha school of learning,Anantapur",
+     "data":["2013","95%"]
+    }
+ ],
+    "Skills":[
+    {
+    	"sname":"Languages",
+    	"sdata":["c","c++","java"]
+    },
+{
+
+    	"sname":"DataBases",
+    	"sdata":["Oracle","MySql","PDO"]
+    },
+{
+
+    	"sname":"Web Technologies",
+    	"sdata":["HTML","XML","CSS","PHP","JavaScript"]
+   },
+
+{
+        "sname":"Operating Systems",
+    	"sdata":["Windows","Linux","Unix"]	
+}
+
+    ]
+}
